@@ -1,2 +1,2 @@
 # eicSimUCRRKS
-Start of EIC simulations, using LAtif's setup
+Start of EIC simulations, using Latif's setup
